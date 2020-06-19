@@ -1,0 +1,13 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is A213-6166
+
+ Directory of C:\Users\Mariam\Desktop\TestGitProject
+
+19-06-2020  13:03    <DIR>          .
+19-06-2020  13:03    <DIR>          ..
+17-06-2020  21:15                32 index.html
+17-06-2020  21:15               405 test.txt
+16-06-2020  23:04               401 test1.txt
+19-06-2020  13:03                 0 test2.txt
+               4 File(s)            838 bytes
+               2 Dir(s)  141,381,316,608 bytes free
